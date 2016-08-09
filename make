@@ -1,0 +1,1 @@
+gcc -g main.cpp -o main -lInventor -lglut -lInventorXt
